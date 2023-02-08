@@ -88,11 +88,6 @@ const EtusivuTekstit = () => {
                 :
                 <Spinner  animation="border" /> 
             }
-        
-            {/* <div className='EtusivuTitleContainer'>
-                <h1 className="EtusivuTitleText">Unnamed </h1>
-                <h1 className="EtusivuTitleText">by Eemeli Antikainen</h1>
-            </div>  */}
 
         </div>
         <div  className='EtusivuTextsMainFlexContainer'>
