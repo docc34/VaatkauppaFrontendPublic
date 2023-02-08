@@ -1,0 +1,30 @@
+.Store-Post-Data-Container{
+    display: flex;
+    flex-direction: row;
+}
+.Store-Post-Main-Container{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+
+.Store-Post-Title-Container{
+    margin-right: 2%;
+}
+
+.Store-Post-Title-Container{
+    margin-right: 2%;
+}
+
+.Store-Post-Image{
+    max-width: 500px;
+}
+
+.Store-Post-Image-Container{
+    margin: 5px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    border-width: 2px;
+    border-style: dotted;
+}

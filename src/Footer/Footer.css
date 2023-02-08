@@ -1,0 +1,37 @@
+
+
+.Footer-Text-Container {
+    
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    background-color: whitesmoke;
+    margin: 0px;
+    padding-top: 1em;
+    
+}
+.Footer-Main-Container{
+    margin-top: auto;
+}
+.Footer-Info-Containers{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+    padding: 10px;
+    
+}
+.Footer-header{
+    background-color: whitesmoke;
+    margin: 0px;
+    padding-top: 1em;
+    width: 100%;
+    
+}
+
+.Footer-Header-Text{
+    margin: 0px;
+    margin-left: 1%;
+}
+.Footer-Info-Data{
+    margin-left: 1rem;
+}

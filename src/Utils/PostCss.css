@@ -1,0 +1,48 @@
+.storePostBox{
+    display:flex;
+    flex-direction: column;
+}
+.storePostBoxRow{
+    flex-direction: row;
+}
+.ProfileCardMain{
+    display:flex;
+    
+}
+.ProfileCardTitleContainer{
+    display:flex;
+    flex-direction: row;
+}
+.ProfileCardTitleLabelBox{
+    flex-grow:1;
+}
+.Profile-Card-Stars{
+    background-color: gold;
+}
+.ProfileCardText{
+    text-decoration: none;
+    color: black;
+    padding-top: 3mm;
+    padding-left: 1.5mm;
+    text-align: justify;
+}
+.ProfileCardText:hover{
+    color:black;
+    text-decoration: none;
+}
+.Post-Card{
+  width: 18rem;
+  height: auto;
+  margin: 3%;
+}
+.Post-Button{
+    margin-top: 10px;
+}
+.g-4{ 
+    max-height: 1500px;
+}
+.ReviewLinkedImage{
+    width: 100%;
+    max-width: 400px;
+    max-height: 300px;
+}

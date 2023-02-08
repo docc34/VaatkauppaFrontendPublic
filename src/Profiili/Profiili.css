@@ -1,0 +1,50 @@
+.Profiili-Main{
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    
+}
+.Profiili-NimiOtsikko{
+    padding-bottom: 1ex
+}
+.img-thumbnail{
+    width: 400px;
+    height: 400px;
+    max-height: 400px;
+    max-width: 400px;
+}
+.Profiili-valikko{
+    padding-top: 64px;
+    padding-left: 1em;
+    width: 25%;
+}
+.Profiili-Tekstit{
+    padding-top: 64px;
+    padding-left: 2em;
+    flex:1;
+}
+.Profiili-UpperPartMain{
+    display:flex;
+    flex-direction: row;
+}
+.Profiili-Esittely{
+    display:flex;
+    flex-direction: column;
+}
+.Profiili-Kuvan-Input{
+    padding-top: 2em;
+}
+.Profile-Description-Text{
+    max-width: 500px;
+}
+.Profile-CardColumns{
+    display: flex;
+    flex-direction: row;
+}
+.card-columns{
+max-height: 1500px;
+
+}
+.col{
+    max-width: 400px;
+}
